@@ -1,2 +1,4 @@
-package com.bank;public class Example {
+package com.bank;
+
+public class Example {
 }

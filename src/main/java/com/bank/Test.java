@@ -4,5 +4,6 @@ public class Test {
 
     public void test(){
         System.out.println("Hello from smita");
+        System.out.println("Hello from World");
     }
 }
